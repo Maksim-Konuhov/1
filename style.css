@@ -1,0 +1,166 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    background-image: url(/img/bg_header.png);
+    padding-bottom: 130px;
+    }
+
+div.logo{
+    padding-top: 1px;
+    padding-bottom: 50px;
+}
+
+.active-box h2{
+    font-size: 40px;
+    font-family: 'Raleway', sans-serif;
+    margin-left: 19.2%;
+    margin-top: 1.6%;
+    color: #66697e;
+}
+
+.active-box span{
+    color: aliceblue;
+    font-weight: 100;
+}
+
+ul.navbar {
+    position: relative;
+    display: flex;
+    list-style-type: none;
+    left: 950px;
+    bottom: 75px ;
+}
+
+ul.navbar a {
+    text-decoration: none;
+    color: #fff;
+    margin-left: 60px;
+    font-size: 15px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+}
+
+.header-line{
+    border-color: #66697e;
+    width: 1296px;
+    position: relative;
+    left: 365px;
+    top: -25px;
+    border-width: 1px;
+}
+
+.header-info h1{
+    text-transform: uppercase;
+    color: #fff;
+    text-align: center;
+    margin-top: 150px;
+    font-size: 60px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.header-info p {
+    color: #fff;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Raleway', sans-serif;
+    margin-top: 20px;
+}
+
+button{
+    background-color: #e84545;
+    display: flex;
+    margin: 0px auto;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 70px;
+    font-size: 25px;
+    border-width: 0px;
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+.navbar{
+    display: flex;
+}
+
+.header-nav{
+    margin-left: 19.3%;
+    width: 100%;
+}
+
+.logo{
+    margin-left: 19.2%;
+}
+
+.logo h1 a {
+    text-decoration: none;
+    color: #66697e;
+    font-size: 1.5rem;
+    font-family: 'Raleway', sans-serif;
+    font-weight:800;
+    letter-spacing: -0.5px;
+    
+}
+
+.logo span{
+    color: #fff;
+    font-weight: 100;
+}
+
+.header-nav ul{
+    display: flex;
+    width: 100%;
+    margin-left: 20.5%;
+    margin-top: 17px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 0.8rem;
+}
+
+.header-nav ul li {
+    margin-left: 3.1%;
+    list-style-type: none;    
+}
+
+.header-nav ul li a{
+    text-decoration: none;
+    color: #ccccd3;
+}
+ */
